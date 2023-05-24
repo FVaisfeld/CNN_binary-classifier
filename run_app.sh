@@ -1,0 +1,1 @@
+streamlit run  app.py --logger.level=info 2>logfile.log
